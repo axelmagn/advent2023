@@ -1,8 +1,4 @@
-use std::{
-    cmp::{max, min},
-    io::stdin,
-    ops::Index,
-};
+use std::io::stdin;
 
 use once_cell::sync::Lazy;
 use regex::Regex;
